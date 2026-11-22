@@ -1,0 +1,41 @@
+product,stock_on_hand,supplier_lead_time_days,expiry_date,unit_cost
+Artemether/Lumefantrine 80/480mg,126,10,2026-01-21,2016
+Artesunate/Amodiaquine,240,3,2026-03-17,1260
+Sulfadoxine/Pyrimethamine,42,10,2027-02-05,612
+Paracetamol 500mg (strip),560,7,2027-02-05,195
+Ibuprofen 400mg (strip),560,7,2027-02-05,335
+Diclofenac 50mg (strip),140,10,2026-03-17,396
+Tramadol 50mg (strip),280,2,2026-07-20,900
+Amoxicillin 500mg (strip),168,3,2026-07-20,1050
+Ciprofloxacin 500mg (strip),112,3,2027-02-05,1260
+Metronidazole 400mg (strip),440,7,2026-02-15,455
+Azithromycin 500mg,200,7,2026-07-20,2336
+Ampicillin/Cloxacillin caps,280,2,2026-07-20,966
+Amlodipine 10mg (strip),240,3,2026-05-01,1332
+Lisinopril 10mg (strip),16,7,2026-07-20,1650
+Losartan 50mg (strip),70,10,2026-02-15,1875
+Hydrochlorothiazide 25mg,42,10,2026-05-01,700
+Metformin 500mg (strip),84,5,2027-08-24,949
+Glibenclamide 5mg (strip),210,7,2026-01-21,630
+Insulin 30/70 vial,16,2,2026-05-01,5525
+Vitamin C 1000mg (tube),56,2,2026-07-20,1500
+Multivitamin (bottle),350,2,2026-02-15,2030
+Folic Acid 5mg,16,2,2026-05-01,310
+Ferrous Sulphate/Folic Acid,125,7,2026-02-15,496
+Zinc 20mg dispersible,32,5,2027-02-05,576
+Omeprazole 20mg (strip),910,3,2027-08-24,660
+ORS sachet,1260,10,2026-07-20,150
+Loperamide 2mg,280,5,2026-03-17,390
+Antacid suspension,24,7,2026-07-20,704
+Loratadine 10mg (strip),64,5,2026-07-20,504
+Cetirizine 10mg (strip),630,10,2027-08-24,441
+Cough syrup (adult),40,7,2026-01-21,1116
+Cough syrup (paediatric),490,10,2027-02-05,1178
+Chlorpheniramine 4mg,96,3,2026-07-20,180
+Levonorgestrel 1.5mg,40,3,2027-08-24,975
+Combined oral contraceptive,84,2,2026-05-01,804
+Hydrocortisone cream,125,5,2026-07-20,704
+Clotrimazole cream,24,7,2027-02-05,756
+Povidone iodine 100ml,56,2,2026-05-01,975
+Blood glucose test strips (50),37,5,2027-02-05,6800
+Digital thermometer,12,10,2026-07-20,1800
